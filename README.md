@@ -1,64 +1,41 @@
 <div align="center">
-  <img src="https://i.imgur.com/qJPeEUn.gif" alt="Retro Anime Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=NEXUS-016&desc=Anime%20%E2%9D%A4%EF%B8%8F%20Code%20%E2%9D%A4%EF%B8%8F%20Gaming&animation=fadeIn&fontColor=fff&fontSize=90&fontAlignY=30&descAlignY=50&descSize=20" width="100%"/>
+</div>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F70988&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Anime+Universe;Developer+by+Day%2C+Otaku+by+Night;Where+Imagination+Has+No+Limits" alt="Typing SVG" /></a>
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/UYzQgFGiR5OiQ/giphy.gif" width="600"/>
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=35&duration=3500&pause=300&color=F765D8&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=150&lines=Welcome+to+Nexus-016's+Retro+Anime+Universe!;Where+Pixel+Art+Meets+Code;Debugging+by+day%2C+Anime+Marathons+by+night!" alt="Typing SVG" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Nexus-016&style=for-the-badge&color=ff69b4" alt="Profile Views"/>
+  <a href="https://github.com/Nexus-016"><img src="https://img.shields.io/github/followers/Nexus-016?style=for-the-badge&color=blueviolet" alt="GitHub Followers"/></a>
+  <img src="https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge"/>
 </div>
 
-<img src="https://i.imgur.com/waxVImv.png" alt="separator"/>
+<br/>
 
-<div align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" alt="Retro Pixel Art" width="600"/>
-  <br>
-  <br>
-  <a href="https://github.com/Nexus-016"><img src="https://custom-icon-badges.demolab.com/badge/-Nexus--016-9146FF?style=for-the-badge&logo=mention&logoColor=white"/></a>
-  <img src="https://custom-icon-badges.demolab.com/badge/Retro_Anime-FF69B4?style=for-the-badge&logo=device-desktop&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Online-76FF03?style=for-the-badge"/>
-  <br>
-  <br>
-  <img src="https://64.media.tumblr.com/4e502df68ce5c06f9459c1b67103a3a9/tumblr_mzafizKTvW1t5wpm9o1_500.gifv" width="400"/>
-</div>
-
-<img src="https://i.imgur.com/waxVImv.png" alt="separator"/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img width="100%" src="https://i.imgur.com/ZKfCYGR.gif">
-        <br>
-        <br>
-        <img src="https://img.shields.io/badge/PROFILE%20VIEWS-1337-F34BDE?style=for-the-badge"/>
-      </td>
-      <td align="center" width="50%">
-        <img src="https://giffiles.alphacoders.com/209/209661.gif" width="100%">
-        <br>
-        <br>
-        <img src="https://img.shields.io/badge/CURRENT%20STREAK-42%20DAYS-A347FF?style=for-the-badge"/>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<img src="https://i.imgur.com/waxVImv.png" alt="separator"/>
-
-<div align="center">
-  <details open>
-    <summary><h2>🎮 𝙰𝙱𝙾𝚄𝚃 𝙼𝙴 🕹️</h2></summary>
-    <br>
-    <table>
-      <tr>
-        <td width="50%">
-          <img src="https://i.imgur.com/vxURCPx.gif" width="100%"/>
-          <br>
-          <p align="center"><i>Debugging life one anime episode at a time</i></p>
-        </td>
-        <td width="50%">
-          <div align="center">
-            <img src="https://i.imgur.com/kdXRFQD.png" width="90"/>
-            <pre>
-            <code>
+<details open>
+  <summary><h2 align="center">🌸 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 🌸</h2></summary>
+  <div align="center">
+    <br/>
+    <img src="https://media.giphy.com/media/12bSyZ2lLVvZ4s/giphy.gif" width="300"/>
+    <br/>
+    <br/>
+    <div align="center">
+      <table>
+        <tr>
+          <td>
+            <div align="center">
+              <img src="https://media.giphy.com/media/al7j4zQQw8Y9UjGnrM/giphy.gif" width="200"/>
+            </div>
+          </td>
+          <td>
+<pre align="center">
+<code>
 const nexus = {
   name: "Nexus-016",
   class: "Coding Ninja",
@@ -71,302 +48,256 @@ const nexus = {
   favoritePixels: "All of them",
   questLog: "Searching for the perfect code"
 };
-            </code>
-            </pre>
-            <img src="https://i.imgur.com/TLgaUlR.png" width="90"/>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </details>
-</div>
-
-<img src="https://i.imgur.com/waxVImv.png" alt="separator"/>
-
-<div align="center">
-  <details open>
-    <summary><h2>🌐 𝙲𝙾𝙽𝙽𝙴𝙲𝚃𝙸𝙾𝙽 𝙿𝙾𝚁𝚃𝙰𝙻 🌐</h2></summary>
-    <br>
-    <table>
-      <tr>
-        <td align="center">
-          <img src="https://i.imgur.com/pT9PsZb.gif" width="100%"/>
-        </td>
-        <td>
-          <div align="center">
-            <a href="https://github.com/Nexus-016">
-              <img src="https://img.shields.io/badge/GitHub-FF007F?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <br><br>
-            <a href="http://www.facebook.com?alamin.edits">
-              <img src="https://img.shields.io/badge/Facebook-7B42F6?style=for-the-badge&logo=facebook&logoColor=white"/>
-            </a>
-            <br><br>
-            <img src="https://i.imgur.com/9H27hB3.gif" width="200"/>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </details>
-</div>
-
-<img src="https://i.imgur.com/waxVImv.png" alt="separator"/>
-
-<div align="center">
-  <details open>
-    <summary><h2>💾 𝚃𝙴𝙲𝙷𝙽𝙾𝙻𝙾𝙶𝚈 𝙲𝙰𝚂𝚂𝙴𝚃𝚃𝙴𝚂 💾</h2></summary>
-    <br>
-    <div align="center">  
-      <img src="https://i.pinimg.com/originals/81/64/da/8164da32c0de048f06ab157de83644fc.gif" width="500"/>
-      <br><br>
-      <div>
-        <img src="https://img.shields.io/badge/HTML-FF3099?style=for-the-badge&logo=html5&logoColor=white"/>
-        <img src="https://img.shields.io/badge/CSS-7B4CFF?style=for-the-badge&logo=css3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-FF5757?style=for-the-badge&logo=javascript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-00E4FF?style=for-the-badge&logo=react&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Node.js-9FFF00?style=for-the-badge&logo=node.js&logoColor=black"/>
-      </div>
-      <br>
-      <img src="https://i.imgur.com/bHvCiJv.gif" width="400"/>
-    </div>
-  </details>
-</div>
-
-<img src="https://i.imgur.com/waxVImv.png" alt="separator"/>
-
-<div align="center">
-  <details open>
-    <summary><h2>📊 𝙷𝙸𝙶𝙷 𝚂𝙲𝙾𝚁𝙴𝚂 📊</h2></summary>
-    <br>
-    <div align="center">
-      <img src="https://i.imgur.com/qSzvLsj.gif" width="400"/>
-      <br><br>
-      
-      <img src="https://github-profile-trophy.vercel.app/?username=Nexus-016&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-bg=true&no-frame=true" width="100%"/>
-      
-      <table>
-        <tr>
-          <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=Nexus-016&show_icons=true&count_private=true&hide_border=true&title_color=ff64da&icon_color=a960ff&text_color=00cafe&bg_color=0d1117&show_icons=true" alt="GitHub Stats" width="100%"/>
-          </td>
-          <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nexus-016&theme=synthwave&hide_border=true&background=0D1117&stroke=0000&ring=ff64da&fire=ff64da&currStreakLabel=a960ff" alt="GitHub Streak" width="100%"/>
+</code>
+</pre>
           </td>
         </tr>
       </table>
-      
-      <img src="https://i.imgur.com/bZ1xMnK.gif" width="500"/>
     </div>
-  </details>
+  </div>
+</details>
+
+<br/>
+
+<details open>
+  <summary><h2 align="center">🌌 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 🌌</h2></summary>
+  <br/>
+  <div align="center">
+    <img src="https://media.giphy.com/media/UILt5HnwgDqMRGjLW4/giphy.gif" width="300"/>
+    <br/>
+    <br/>
+    <div>
+      <a href="https://github.com/Nexus-016"><img src="https://img.shields.io/badge/GitHub-FF00FF?style=for-the-badge&logo=github&logoColor=white"/></a>
+      <a href="http://www.facebook.com?alamin.edits"><img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    </div>
+  </div>
+</details>
+
+<br/>
+
+<details open>
+  <summary><h2 align="center">⚡ 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲 𝐒𝐭𝐚𝐜𝐤 ⚡</h2></summary>
+  <br/>
+  <div align="center">
+    <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" height="250"/>
+    <br/>
+    <br/>
+    <div>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="80" height="80"/>
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="80" height="80"/>
+      <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="80" height="80"/>
+      <img src="https://techstack-generator.vercel.app/css-icon.svg" alt="CSS" width="80" height="80" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="80" height="80" />
+    </div>
+  </div>
+</details>
+
+<br/>
+
+<details open>
+  <summary><h2 align="center">📊 𝐆𝐢𝐭𝐇𝐮𝐛 𝐀𝐧𝐚𝐥𝐲𝐭𝐢𝐜𝐬 📊</h2></summary>
+  <br/>
+  <div align="center">
+    <img src="https://media.giphy.com/media/S9oecXsZIBFJTNgeSv/giphy.gif" width="300"/>
+    <br/>
+    <br/>
+
+<div>
+  <img src="https://github-profile-trophy.vercel.app/?username=Nexus-016&theme=dracula&column=7&margin-w=15&margin-h=15" width="100%" />
 </div>
 
-<img src="https://i.imgur.com/waxVImv.png" alt="separator"/>
+<br/>
 
-<div align="center">
-  <details open>
-    <summary><h2>🎮 𝙶𝙰𝙼𝙸𝙽𝙶 𝙲𝙰𝚁𝚃𝚁𝙸𝙳𝙶𝙴𝚂 🎮</h2></summary>
-    <br>
-    <table>
-      <tr>
-        <td width="50%">
-          <img src="https://i.imgur.com/GqjM3bZ.gif" width="100%"/>
-          <br><br>
-          <div align="center">
+<div>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Nexus-016&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus-016&layout=compact&langs_count=8&theme=radical"/>
+</div>
+
+<br/>
+
+<div>
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nexus-016&theme=radical&hide_border=false"/>
+</div>
+
+<br/>
+
+<div>
+  <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=Nexus-016&custom_title=Contribution%20Graph&theme=radical&bg_color=141321&point=ff64da&line=ff64da&hide_border=true"/>
+</div>
+
+  </div>
+</details>
+
+<br/>
+
+<details open>
+  <summary><h2 align="center">🎮 𝐆𝐚𝐦𝐢𝐧𝐠 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐞 🎮</h2></summary>
+  <br/>
+  <div align="center">
+    <img src="https://media.giphy.com/media/l3UQsyPnbfbYTu9va/giphy.gif" width="400"/>
+    <br/>
+    <br/>
+    <div align="center">
+      <table width="100%">
+        <tr>
+          <td width="50%" align="center">
             <h3>📱 Mobile Legends: Bang Bang ⚔️</h3>
-            <img src="https://i.imgur.com/dVIoeXd.gif" width="300"/>
-            <br>
-            <table>
-              <tr>
-                <td>RANK</td>
-                <td>MYTHIC</td>
-              </tr>
-              <tr>
-                <td>MAIN</td>
-                <td>ASSASSIN</td>
-              </tr>
-              <tr>
-                <td>POWER</td>
-                <td>OVER 9000</td>
-              </tr>
-            </table>
-          </div>
-        </td>
-        <td width="50%">
-          <img src="https://i.imgur.com/uj6Z3ci.gif" width="100%"/>
-          <br><br>
-          <div align="center">
+            <img src="https://media.giphy.com/media/EIfUQMpU5mpXPkp9e8/giphy.gif" width="100%"/>
+            <br/>
+            <div align="center">
+              <table>
+                <tr>
+                  <td bgcolor="#1a1a2e"><b>RANK</b></td>
+                  <td bgcolor="#1a1a2e"><b>MYTHIC</b></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#16213e"><b>MAIN</b></td>
+                  <td bgcolor="#16213e"><b>ASSASSIN</b></td>
+                </tr>
+                <tr>
+                  <td bgcolor="#0f3460"><b>POWER</b></td>
+                  <td bgcolor="#0f3460"><b>OVER 9000</b></td>
+                </tr>
+              </table>
+            </div>
+          </td>
+          <td width="50%" align="center">
             <h3>🖥️ PC Gaming Collection</h3>
-            <img src="https://i.imgur.com/uGFkBv6.gif" width="300"/>
-            <br>
-            <div align="left" style="padding-left: 50px;">
+            <img src="https://media.giphy.com/media/3ohzdTEcKJqFZm8swg/giphy.gif" width="100%"/>
+            <br/>
+            <div align="left" style="padding-left: 50px; background-color: #240046; padding: 15px; border-radius: 10px;">
               <ul>
-                <li>🎯 <span style="color:#ff44c8;">CALL OF DUTY: WARZONE</span></li>
-                <li>⚔️ <span style="color:#54ffc8;">ASSASSIN'S CREED II</span></li>
-                <li>🗡️ <span style="color:#ffcc00;">ASSASSIN'S CREED III</span></li>
-                <li>🏴‍☠️ <span style="color:#00ccff;">ASSASSIN'S CREED IV: BLACK FLAG</span></li>
+                <li>🎯 <b><span style="color:#ff44c8;">CALL OF DUTY: WARZONE</span></b></li>
+                <li>⚔️ <b><span style="color:#54ffc8;">ASSASSIN'S CREED II</span></b></li>
+                <li>🗡️ <b><span style="color:#ffcc00;">ASSASSIN'S CREED III</span></b></li>
+                <li>🏴‍☠️ <b><span style="color:#00ccff;">ASSASSIN'S CREED IV: BLACK FLAG</span></b></li>
               </ul>
             </div>
-          </div>
-        </td>
-      </tr>
-    </table>
-  </details>
-</div>
-
-<img src="https://i.imgur.com/waxVImv.png" alt="separator"/>
-
-<div align="center">
-  <details open>
-    <summary><h2>📼 𝙰𝙽𝙸𝙼𝙴 𝚅𝙸𝙳𝙴𝙾𝚃𝙰𝙿𝙴𝚂 📼</h2></summary>
-    <br>
-    <img src="https://i.imgur.com/5Uqe2VC.gif" width="600"/>
-    <br><br>
-    <div style="display: flex; justify-content: center; flex-wrap: wrap;">
-      <div style="width: 30%; margin: 10px;">
-        <img src="https://i.imgur.com/yX3xHWZ.gif" width="100%"/>
-        <div align="center">NARUTO</div>
-      </div>
-      <div style="width: 30%; margin: 10px;">
-        <img src="https://i.imgur.com/WbGljsZ.gif" width="100%"/>
-        <div align="center">ONE PIECE</div>
-      </div>
-      <div style="width: 30%; margin: 10px;">
-        <img src="https://i.imgur.com/J8vX6vt.gif" width="100%"/>
-        <div align="center">MORE ANIME</div>
-      </div>
+          </td>
+        </tr>
+      </table>
     </div>
-    <br>
-    <table width="100%">
-      <tr>
-        <td align="center">
-          <img src="https://i.imgur.com/ZaQF9KZ.gif" width="80"/><br>
-          <span style="color:#ff3870;">Naruto</span>
-        </td>
-        <td align="center">
-          <img src="https://i.imgur.com/bV5duVo.gif" width="80"/><br>
-          <span style="color:#ffcc00;">One Piece</span>
-        </td>
-        <td align="center">
-          <img src="https://i.imgur.com/lFoJQOA.gif" width="80"/><br>
-          <span style="color:#00ccff;">Dragon Ball</span>
-        </td>
-        <td align="center">
-          <img src="https://i.imgur.com/OgSmAlv.gif" width="80"/><br>
-          <span style="color:#88ff00;">Sailor Moon</span>
-        </td>
-        <td align="center">
-          <img src="https://i.imgur.com/Ou1prgw.gif" width="80"/><br>
-          <span style="color:#cc44ff;">Cowboy Bebop</span>
-        </td>
-      </tr>
-    </table>
-  </details>
+  </div>
+</details>
+
+<br/>
+
+<details open>
+  <summary><h2 align="center">🌟 𝐀𝐧𝐢𝐦𝐞 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞𝐬 🌟</h2></summary>
+  <br/>
+  <div align="center">
+    <img src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" width="600"/>
+    <br/>
+    <br/>
+    <div align="center">
+      <table width="100%">
+        <tr align="center">
+          <td width="33.33%">
+            <img src="https://media.giphy.com/media/MfLsZS9hXfQpa/giphy.gif" width="100%" height="200px"/>
+            <br/>
+            <img src="https://img.shields.io/badge/NARUTO-FF5733?style=for-the-badge"/>
+          </td>
+          <td width="33.33%">
+            <img src="https://media.giphy.com/media/CchzkJJ6UrQmQ/giphy.gif" width="100%" height="200px"/>
+            <br/>
+            <img src="https://img.shields.io/badge/ONE_PIECE-00A8FF?style=for-the-badge"/>
+          </td>
+          <td width="33.33%">
+            <img src="https://media.giphy.com/media/LTyOILHm3zARe/giphy.gif" width="100%" height="200px"/>
+            <br/>
+            <img src="https://img.shields.io/badge/MANY_MORE-9980FA?style=for-the-badge"/>
+          </td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</details>
+
+<br/>
+
+<details open>
+  <summary><h2 align="center">🎵 𝐍𝐨𝐰 𝐏𝐥𝐚𝐲𝐢𝐧𝐠 🎵</h2></summary>
+  <br/>
+  <div align="center">
+    <img src="https://media.giphy.com/media/kC3NX2UL9jXEMmvogP/giphy.gif" width="300"/>
+    <br/>
+    <br/>
+    
+<div>
+  <table width="100%" style="border-collapse: collapse; border: 2px solid #ff6b6b;">
+    <tr>
+      <th colspan="3" align="center" style="background-color: #ff6b6b; color: white; padding: 10px;">
+        <span style="font-size: 22px;">🎧 NOW PLAYING 🎧</span>
+      </th>
+    </tr>
+    <tr style="background-color: #1e1e2e;">
+      <td width="100" align="center">
+        <img src="https://media.giphy.com/media/3o72F1ZvqC1kdsyP28/giphy.gif" width="100" height="100"/>
+      </td>
+      <td>
+        <div style="font-size: 22px; font-weight: bold; color: #ff6b6b;">Jhol</div>
+        <div style="font-size: 16px; color: #a9b1d6;">Maanu, Anurag Khalid, Abdullah Siddiqui</div>
+        <div>
+          <progress value="75" max="100" style="width: 100%; height: 5px;"></progress>
+        </div>
+        <div style="font-size: 12px; color: #a9b1d6;">02:35 / 03:28</div>
+      </td>
+      <td width="100" align="center">
+        <img src="https://media.giphy.com/media/3ohryoTHtGPUL4uJO0/giphy.gif" width="80"/>
+      </td>
+    </tr>
+  </table>
+
+  <table width="100%" style="border-collapse: collapse; margin-top: 20px; border: 2px solid #5b7fff;">
+    <tr>
+      <th colspan="3" align="center" style="background-color: #5b7fff; color: white; padding: 10px;">
+        <span style="font-size: 22px;">🔊 UP NEXT 🔊</span>
+      </th>
+    </tr>
+    <tr style="background-color: #1e1e2e;">
+      <td width="100" align="center">
+        <img src="https://media.giphy.com/media/l4FGjIfMXEtJ5YMxm/giphy.gif" width="100" height="100"/>
+      </td>
+      <td>
+        <div style="font-size: 22px; font-weight: bold; color: #5b7fff;">Nahin Milta</div>
+        <div style="font-size: 16px; color: #a9b1d6;">Bayaan</div>
+        <div>
+          <progress value="0" max="100" style="width: 100%; height: 5px;"></progress>
+        </div>
+        <div style="font-size: 12px; color: #a9b1d6;">00:00 / 04:25</div>
+      </td>
+      <td width="100" align="center">
+        <img src="https://media.giphy.com/media/gLLGiw3kUbmb6/giphy.gif" width="80"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<img src="https://i.imgur.com/waxVImv.png" alt="separator"/>
+  </div>
+</details>
 
-<div align="center">
-  <details open>
-    <summary><h2>📻 𝙼𝚄𝚂𝙸𝙲 𝙿𝙻𝙰𝚈𝙻𝙸𝚂𝚃 📻</h2></summary>
-    <br>
-    <img src="https://i.imgur.com/tTlXXaG.gif" width="400"/>
-    <br><br>
-    <table width="100%" border="1" style="border: 3px solid #ff44aa; border-radius: 10px;">
-      <tr style="background-color: #ff44aa;">
-        <th colspan="4">🎧 NOW PLAYING ON NEXUS RADIO 📡</th>
-      </tr>
-      <tr>
-        <td width="100" rowspan="2">
-          <img src="https://i.imgur.com/gLnEUAl.gif" width="100" height="100"/>
-        </td>
-        <td colspan="2">
-          <div style="font-size: 24px; font-weight: bold; color: #ff44aa;">♪♫ JHOL ♫♪</div>
-          <div style="font-size: 16px; color: #aa44ff;">Maanu, Anurag Khalid, Abdullah Siddiqui</div>
-        </td>
-        <td width="100" rowspan="2" align="center">
-          <img src="https://i.imgur.com/0EktOvR.gif" width="80"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <div style="height: 20px; width: 200px; background-color: #222; border-radius: 10px; padding: 3px;">
-            <div style="height: 14px; width: 80%; background-color: #ff44aa; border-radius: 7px;"></div>
-          </div>
-          <div style="font-size: 12px; margin-top: 5px; color: #aaa;">02:35 / 03:28</div>
-        </td>
-        <td align="right">
-          <img src="https://img.shields.io/badge/▶️-PLAY-AA00FF?style=flat-square&logo=applemusic&logoColor=white"/>
-          <img src="https://img.shields.io/badge/❤️-FAVORITE-FF0066?style=flat-square&logo=audiomack&logoColor=white"/>
-        </td>
-      </tr>
-    </table>
-    <br>
-    <table width="100%" border="1" style="border: 3px solid #44aaff; border-radius: 10px;">
-      <tr style="background-color: #44aaff;">
-        <th colspan="4">🔊 UP NEXT 🔊</th>
-      </tr>
-      <tr>
-        <td width="100" rowspan="2">
-          <img src="https://i.imgur.com/tHq4WcA.gif" width="100" height="100"/>
-        </td>
-        <td colspan="2">
-          <div style="font-size: 24px; font-weight: bold; color: #44aaff;">♪♫ NAHIN MILTA ♫♪</div>
-          <div style="font-size: 16px; color: #aa44ff;">Bayaan</div>
-        </td>
-        <td width="100" rowspan="2" align="center">
-          <img src="https://i.imgur.com/DfXNRww.gif" width="80"/>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <div style="height: 20px; width: 200px; background-color: #222; border-radius: 10px; padding: 3px;">
-            <div style="height: 14px; width: 0%; background-color: #44aaff; border-radius: 7px;"></div>
-          </div>
-          <div style="font-size: 12px; margin-top: 5px; color: #aaa;">00:00 / 04:25</div>
-        </td>
-        <td align="right">
-          <img src="https://img.shields.io/badge/▶️-QUEUE-00AAFF?style=flat-square&logo=applemusic&logoColor=white"/>
-          <img src="https://img.shields.io/badge/❤️-FAVORITE-FF0066?style=flat-square&logo=audiomack&logoColor=white"/>
-        </td>
-      </tr>
-    </table>
-  </details>
-</div>
+<br/>
 
-<img src="https://i.imgur.com/waxVImv.png" alt="separator"/>
-
-<div align="center">
-  <details open>
-    <summary><h2>💬 𝙿𝙸𝚇𝙴𝙻 𝚀𝚄𝙾𝚃𝙴 💬</h2></summary>
-    <br>
-    <img src="https://i.imgur.com/bDy5uDS.gif" width="500"/>
-    <br><br>
-    <div style="background-color: #000; padding: 20px; border: 2px solid #ff44aa; border-radius: 10px; max-width: 600px; margin: 0 auto;">
-      <img src="https://i.imgur.com/CXY8y9h.gif" width="40" style="float: left; margin-right: 10px;"/>
-      <p style="font-family: 'Press Start 2P', cursive; font-size: 18px; color: #ff44aa; text-align: center;">
+<details open>
+  <summary><h2 align="center">💭 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞 𝐐𝐮𝐨𝐭𝐞 💭</h2></summary>
+  <br/>
+  <div align="center">
+    <img src="https://media.giphy.com/media/yFAJ2a0WeELWU/giphy.gif" width="500"/>
+    <br/>
+    <br/>
+    <div style="background-color: rgba(0, 0, 0, 0.5); padding: 20px; border-radius: 10px; border-left: 5px solid #ff6b6b; max-width: 80%; margin: 0 auto;">
+      <p style="font-size: 18px; font-style: italic; color: #fff; text-align: center;">
         "The world isn't perfect. But it's there for us, doing the best it can....that's what makes it so damn beautiful."
       </p>
-      <img src="https://i.imgur.com/CXY8y9h.gif" width="40" style="float: right; margin-left: 10px;"/>
-      <p style="font-family: 'Press Start 2P', cursive; font-size: 14px; color: #ffcc00; text-align: right;">
+      <p style="font-weight: bold; color: #ff6b6b; text-align: right;">
         - Roy Mustang (Fullmetal Alchemist)
       </p>
     </div>
-  </details>
-</div>
+  </div>
+</details>
 
-<img src="https://i.imgur.com/waxVImv.png" alt="separator"/>
+<br/>
 
 <div align="center">
-  <div style="background-color: #000; padding: 20px; border-radius: 10px; max-width: 700px; margin: 0 auto;">
-    <table width="100%">
-      <tr align="center">
-        <td><img src="https://i.imgur.com/PRwCVcC.gif" height="40"/></td>
-        <td><img src="https://i.imgur.com/OiudmNU.gif" height="40"/></td>
-        <td><img src="https://i.imgur.com/gV0yZMB.gif" height="40"/></td>
-        <td><img src="https://i.imgur.com/fmJnTMO.gif" height="40"/></td>
-      </tr>
-    </table>
-  </div>
-  <br>
-  <img src="https://i.imgur.com/ZJYuFnI.gif" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=50&fontAlignY=65&animation=twinkling&text=Thanks%20For%20Visiting!"/>
 </div>
