@@ -8,10 +8,9 @@ Just a normal person every day trying to find a better one of me.
 
 ## 🛠️ Top Skills
 - JavaScript (JS)
-- [Add more skills here if you want!]
 
 ## 🚀 Featured Project
-### [Nexus-Bot](#)
+### [Nexus-Bot](https://github.com/Nexus-016/Nexus-Bot)
 _A showcase of my coding journey and creativity._
 
 ## 🌐 Connect with Me
